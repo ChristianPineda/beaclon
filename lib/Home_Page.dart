@@ -1,22 +1,19 @@
-// ignore_for_file: file_names
-
-import 'package:beaclon/homeCircle.dart';
+import 'package:beaclon/Home_Circle.dart';
 import 'package:flutter/material.dart';
 import 'package:animate_do/animate_do.dart';
 
-class homeView extends StatefulWidget {
-  const homeView({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  const HomePage({Key? key}) : super(key: key);
 
   @override
-  _homeViewState createState() => _homeViewState();
+  // ignore: library_private_types_in_public_api
+  _HomePageState createState() => _HomePageState();
 }
 
-class _homeViewState extends State<homeView> {
+class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-          backgroundColor: Colors.black, automaticallyImplyLeading: false),
       body: SizedBox(
         child: Stack(
           children: <Widget>[
@@ -34,22 +31,14 @@ class _homeViewState extends State<homeView> {
                 children: <Widget>[
                   Center(
                     child: Container(
-                      padding: EdgeInsets.symmetric(vertical: 10),
+                      padding: const EdgeInsets.symmetric(vertical: 10),
                       child: FadeInRight(
-                        child: homeCircle(),
                         duration: const Duration(seconds: 3),
+                        child: const HomeCircle(),
                       ),
                     ),
                   ),
                 ],
-              ),
-            ),
-            FloatingActionButton(
-              onPressed: () {},
-              backgroundColor: Colors.black,
-              child: const Icon(
-                Icons.play_circle_filled_sharp,
-                color: Colors.white,
               ),
             ),
           ],

@@ -1,4 +1,4 @@
-import 'package:beaclon/homePage.dart';
+import 'package:beaclon/Home_Page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.lightBlue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const homeView(),
+      home: const HomePage(),
     );
   }
 }

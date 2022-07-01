@@ -1,21 +1,7 @@
 import 'package:flutter/material.dart';
 
-class circleHome extends StatefulWidget {
-  const circleHome({Key? key}) : super(key: key);
-
-  @override
-  State<circleHome> createState() => _circleState();
-}
-
-class _circleState extends State<circleHome> {
-  @override
-  Widget build(BuildContext context) {
-    return const homeCircle();
-  }
-}
-
-class homeCircle extends StatelessWidget {
-  const homeCircle({
+class HomeCircle extends StatelessWidget {
+  const HomeCircle({
     Key? key,
   }) : super(key: key);
 
@@ -27,6 +13,7 @@ class homeCircle extends StatelessWidget {
           width: 100,
           height: 100,
           decoration: const BoxDecoration(
+            shape: BoxShape.circle,
             image: DecorationImage(image: AssetImage('assets/pin.jpg')),
           ),
         ),
