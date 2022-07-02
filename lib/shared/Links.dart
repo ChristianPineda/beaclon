@@ -11,25 +11,22 @@ const String username = "@pinwndev";
 const String profession = "Cloud Native Developer";
 
 const String titleUno = "Aprende Linux con Microsoft Azure";
-const String linkUno =
-    "https://docs.microsoft.com/en-us/learn/paths/azure-linux/";
+const String linkUno = "https://bit.ly/3ODFO4j";
 
 const String titleDos = "Data Analyst con LinkedIn y Microsoft";
-const String linkDos =
-    "https://www.linkedin.com/learning/paths/conviertete-en-data-analyst?originalSubdomain=es";
+const String linkDos = "https://bit.ly/3R4eKN8";
 
 const String titleTres = "Únete a mi comunidad de Azure";
-const String linkTres = "https://www.meetup.com/es/oslo-mexico-en-la-nube/";
+const String linkTres = "https://bit.ly/3NFFOPU";
 
 const String titleCuatro = "Oracle Next Education";
-const String linkCuatro =
-    "https://www.oracle.com/mx/education/oracle-next-education/";
+const String linkCuatro = "https://bit.ly/3nB05vm";
 
 const String titleCinco = "Feria de cursos gratis";
-const String linkCinco = "https://www.codigofacilito.com/gratis";
+const String linkCinco = "https://bit.ly/3OE6Vfy";
 
 const String titleSeis = "Beca Talent Land";
-const String linkSeis = "https://www.talent-land.mx/ibm/";
+const String linkSeis = "https://bit.ly/3abC6zC";
 
-const String titleSiete = "Colabora con este proyecto";
-const String linkSiete = "https://github.com/ChristianPineda/beaclon";
+const String titleSiete = "Colabora con beaclon";
+const String linkSiete = "https://bit.ly/3Andj6k";
