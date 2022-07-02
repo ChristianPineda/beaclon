@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
+import '../shared/Links.dart';
+
 class YTIcon extends StatelessWidget {
   const YTIcon({
     Key? key,
@@ -10,8 +12,7 @@ class YTIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: (() => launchUrlString(
-          "https://www.youtube.com/channel/UCF7jaVFqb2TTNPxmJT11TdQ")),
+      onTap: (() => launchUrlString(youtube)),
       child: Container(
         width: 30,
         height: 30,

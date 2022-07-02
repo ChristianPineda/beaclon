@@ -1,4 +1,5 @@
 // ignore: file_names
+import 'package:beaclon/shared/Links.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
@@ -10,7 +11,7 @@ class TTIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: (() => launchUrlString("https://www.tiktok.com/@pinwndev")),
+      onTap: (() => launchUrlString(tiktok)),
       child: Container(
         width: 30,
         height: 30,

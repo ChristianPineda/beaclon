@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
+import '../shared/Links.dart';
+
 class TWITCHIcon extends StatelessWidget {
   const TWITCHIcon({
     Key? key,
@@ -10,7 +12,7 @@ class TWITCHIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: (() => launchUrlString("https://www.twitch.tv/pinwndev")),
+      onTap: (() => launchUrlString(twitch)),
       child: Container(
         width: 30,
         height: 30,

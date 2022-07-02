@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
+import '../shared/Links.dart';
+
 class IGIcon extends StatelessWidget {
   const IGIcon({
     Key? key,
@@ -10,7 +12,7 @@ class IGIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: (() => launchUrlString("https://www.instagram.com/pinwndev/")),
+      onTap: (() => launchUrlString(insta)),
       child: Container(
         width: 30,
         height: 30,

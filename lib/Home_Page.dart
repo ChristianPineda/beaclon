@@ -12,6 +12,7 @@ import 'package:animate_do/animate_do.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 import 'icons/TWITTER_Icon.dart';
+import 'shared/Links.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -50,7 +51,17 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   const Center(
-                    child: Text("@pinwndev",
+                    child: Text(username,
+                        style: TextStyle(
+                            fontSize: 30,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black)),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  const Center(
+                    child: Text(profession,
                         style: TextStyle(
                             fontSize: 30,
                             fontWeight: FontWeight.bold,
@@ -89,14 +100,39 @@ class _HomePageState extends State<HomePage> {
                       LIIcon(),
                     ],
                   ),
-                  Center(
-                    child: Container(
-                      padding: const EdgeInsets.symmetric(vertical: 10),
-                      child: CustomButton(
-                          text: "LinkedIn",
-                          onPressed: () => launchUrlString(
-                              "https://www.linkedin.com/in/pinwndev")),
-                    ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                      text: "Enlace 1",
+                      onPressed: () => launchUrlString(linkUno)),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: "Enlace 2",
+                    onPressed: () => launchUrlString(linkDos),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: "Enlace 3",
+                    onPressed: () => launchUrlString(linkTres),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: "Enlace 4",
+                    onPressed: () => launchUrlString(linkCuatro),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: "Enlace 5",
+                    onPressed: () => launchUrlString(linkCinco),
                   ),
                 ],
               ),

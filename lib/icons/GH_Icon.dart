@@ -1,4 +1,5 @@
 // ignore: file_names
+import 'package:beaclon/shared/Links.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
@@ -10,7 +11,7 @@ class GHIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: (() => launchUrlString("https://www.facebook.com/pinwndev")),
+      onTap: (() => launchUrlString(github)),
       child: Container(
         width: 30,
         height: 30,
