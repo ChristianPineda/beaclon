@@ -10,4 +10,5 @@ Todos los enlaces pueden ser facilmente editados en lib/shared.dart
 
 - Sugerencias de código
 - Añadir video destacado de Youtube
+- Test
 - Construir un backend con un headless CMS para que los links sean dinámicos
