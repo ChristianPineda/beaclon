@@ -1,0 +1,9 @@
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/assets/pin.jpg
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/robot/source/repos/OsloMxCC/pinwndev/beaclon/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
