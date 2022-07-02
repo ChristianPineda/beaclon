@@ -30,3 +30,6 @@ const String linkCinco = "https://www.codigofacilito.com/gratis";
 
 const String titleSeis = "Beca Talent Land";
 const String linkSeis = "https://www.talent-land.mx/ibm/";
+
+const String titleSiete = "Colabora con este proyecto";
+const String linkSiete = "https://github.com/ChristianPineda/beaclon";
