@@ -1,17 +1,13 @@
 # beaclon
 
-A new Flutter project.
+Single Page App para llevar tráfico a tu sitio web sin la necesidad de servicios de terceros
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Todos los enlaces pueden ser facilmente editados en lib/shared.dart
 
-A few resources to get you started if this is your first Flutter project:
+# Mejoras:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# beaclon
+- Sugerencias de código
+- Añadir video destacado de Youtube
+- Construir un backend con un headless CMS para que los links sean dinámicos
