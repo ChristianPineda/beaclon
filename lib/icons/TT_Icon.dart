@@ -13,11 +13,11 @@ class TTIcon extends StatelessWidget {
     return GestureDetector(
       onTap: (() => launchUrlString(tiktok)),
       child: Container(
-        width: 30,
-        height: 30,
+        width: 40,
+        height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('icons/tiktoklogo.png')),
+          image: DecorationImage(image: AssetImage('assets/icons/tiktoklogo.png')),
         ),
       ),
     );

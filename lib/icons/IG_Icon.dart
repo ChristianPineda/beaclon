@@ -14,11 +14,11 @@ class IGIcon extends StatelessWidget {
     return GestureDetector(
       onTap: (() => launchUrlString(insta)),
       child: Container(
-        width: 30,
-        height: 30,
+        width: 40,
+        height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('icons/instalogo.png')),
+          image: DecorationImage(image: AssetImage('assets/icons/instalogo.png')),
         ),
       ),
     );

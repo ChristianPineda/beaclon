@@ -10,8 +10,23 @@ const String youtube =
 const String username = "@pinwndev";
 const String profession = "Cloud Native Developer";
 
-const String linkUno = "https://www.google.com";
-const String linkDos = "https://www.youtube.com";
-const String linkTres = "https://www.twitter.com";
-const String linkCuatro = "https://www.instagram.com";
-const String linkCinco = "https://www.github.com";
+const String titleUno = "Aprende Linux con Microsoft Azure";
+const String linkUno =
+    "https://docs.microsoft.com/en-us/learn/paths/azure-linux/";
+
+const String titleDos = "Data Analyst con LinkedIn y Microsoft";
+const String linkDos =
+    "https://www.linkedin.com/learning/paths/conviertete-en-data-analyst?originalSubdomain=es";
+
+const String titleTres = "Únete a mi comunidad de Azure";
+const String linkTres = "https://www.meetup.com/es/oslo-mexico-en-la-nube/";
+
+const String titleCuatro = "Oracle Next Education";
+const String linkCuatro =
+    "https://www.oracle.com/mx/education/oracle-next-education/";
+
+const String titleCinco = "Feria de cursos gratis";
+const String linkCinco = "https://www.codigofacilito.com/gratis";
+
+const String titleSeis = "Beca Talent Land";
+const String linkSeis = "https://www.talent-land.mx/ibm/";

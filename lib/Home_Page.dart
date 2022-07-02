@@ -93,46 +93,53 @@ class _HomePageState extends State<HomePage> {
                       SizedBox(
                         width: 10,
                       ),
-                      GHIcon(),
+                      LIIcon(),
                       SizedBox(
                         width: 10,
                       ),
-                      LIIcon(),
+                      GHIcon(),
                     ],
                   ),
                   const SizedBox(
-                    height: 10,
+                    height: 20,
                   ),
                   CustomButton(
-                      text: "Enlace 1",
+                      text: titleUno,
                       onPressed: () => launchUrlString(linkUno)),
                   const SizedBox(
                     height: 10,
                   ),
                   CustomButton(
-                    text: "Enlace 2",
+                    text: titleDos,
                     onPressed: () => launchUrlString(linkDos),
                   ),
                   const SizedBox(
                     height: 10,
                   ),
                   CustomButton(
-                    text: "Enlace 3",
+                    text: titleTres,
                     onPressed: () => launchUrlString(linkTres),
                   ),
                   const SizedBox(
                     height: 10,
                   ),
                   CustomButton(
-                    text: "Enlace 4",
+                    text: titleCuatro,
                     onPressed: () => launchUrlString(linkCuatro),
                   ),
                   const SizedBox(
                     height: 10,
                   ),
                   CustomButton(
-                    text: "Enlace 5",
+                    text: titleCinco,
                     onPressed: () => launchUrlString(linkCinco),
+                  ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: titleSeis,
+                    onPressed: () => launchUrlString(linkSeis),
                   ),
                 ],
               ),

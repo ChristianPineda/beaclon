@@ -13,11 +13,11 @@ class TWITTERIcon extends StatelessWidget {
     return GestureDetector(
       onTap: (() => launchUrlString(twitter)),
       child: Container(
-        width: 30,
-        height: 30,
+        width: 40,
+        height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('icons/twitterlogo.png')),
+          image: DecorationImage(image: AssetImage('assets/icons/twitterlogo.png')),
         ),
       ),
     );

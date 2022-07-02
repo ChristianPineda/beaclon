@@ -14,11 +14,11 @@ class TWITCHIcon extends StatelessWidget {
     return GestureDetector(
       onTap: (() => launchUrlString(twitch)),
       child: Container(
-        width: 30,
-        height: 30,
+        width: 40,
+        height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('icons/twitchlogo.png')),
+          image: DecorationImage(image: AssetImage('assets/icons/twitchlogo.png')),
         ),
       ),
     );

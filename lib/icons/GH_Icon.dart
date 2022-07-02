@@ -13,11 +13,11 @@ class GHIcon extends StatelessWidget {
     return GestureDetector(
       onTap: (() => launchUrlString(github)),
       child: Container(
-        width: 30,
-        height: 30,
+        width: 40,
+        height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('icons/ghlogo.png')),
+          image: DecorationImage(image: AssetImage('assets/icons/ghlogo.png')),
         ),
       ),
     );
