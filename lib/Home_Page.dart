@@ -1,6 +1,5 @@
-// ignore: file_names
 import 'package:beaclon/custom_button.dart';
-import 'package:beaclon/Home_Circle.dart';
+import 'package:beaclon/home_circle.dart';
 import 'icons/gh_icon.dart';
 import 'icons/ig_icon.dart';
 import 'icons/li_icon.dart';
@@ -63,7 +62,21 @@ class _HomePageState extends State<HomePage> {
                   const Center(
                     child: Text(profession,
                         style: TextStyle(
-                            fontSize: 30,
+                            fontSize: 25,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black)),
+                  ),
+                  const Center(
+                    child: Text(job,
+                        style: TextStyle(
+                            fontSize: 25,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black)),
+                  ),
+                  const Center(
+                    child: Text(startup,
+                        style: TextStyle(
+                            fontSize: 25,
                             fontWeight: FontWeight.bold,
                             color: Colors.black)),
                   ),
