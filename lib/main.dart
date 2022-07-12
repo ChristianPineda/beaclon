@@ -1,4 +1,4 @@
-import 'package:beaclon/Home_Page.dart';
+import 'package:beaclon/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -8,7 +8,8 @@ const String youtube =
     "https://www.youtube.com/channel/UCF7jaVFqb2TTNPxmJT11TdQ";
 
 const String username = "@pinwndev";
-const String profession = "Cloud Native Developer";
+const String profession =
+    "Cloud Native Developer||Consultant at bSide||OSLOMXCC Founder";
 
 const String titleUno = "Aprende Linux con Microsoft Azure";
 const String linkUno = "https://bit.ly/3ODFO4j";

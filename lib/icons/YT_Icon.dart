@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
-import '../shared/Links.dart';
+import '../shared/links.dart';
 
 class YTIcon extends StatelessWidget {
   const YTIcon({

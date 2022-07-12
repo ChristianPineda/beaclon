@@ -1,5 +1,5 @@
 // ignore: file_names
-import 'package:beaclon/shared/Links.dart';
+import 'package:beaclon/shared/links.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 

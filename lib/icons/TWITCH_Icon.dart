@@ -1,8 +1,7 @@
-// ignore: file_names
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
-import '../shared/Links.dart';
+import 'package:beaclon/shared/links.dart';
 
 class TWITCHIcon extends StatelessWidget {
   const TWITCHIcon({
@@ -18,7 +17,8 @@ class TWITCHIcon extends StatelessWidget {
         height: 40,
         decoration: const BoxDecoration(
           shape: BoxShape.circle,
-          image: DecorationImage(image: AssetImage('assets/icons/twitchlogo.png')),
+          image:
+              DecorationImage(image: AssetImage('assets/icons/twitchlogo.png')),
         ),
       ),
     );
