@@ -12,23 +12,23 @@ const String profession = "Cloud Native Developer";
 const String job = "Consultant at bSide";
 const String startup = "OSLOMXCC Founder";
 
-const String titleUno = "Aprende Linux con Microsoft Azure";
-const String linkUno = "https://bit.ly/3ODFO4j";
+const String titleUno = "Operación Aleph";
+const String linkUno = "https://bit.ly/3bYelLY";
 
-const String titleDos = "Data Analyst con LinkedIn y Microsoft";
-const String linkDos = "https://bit.ly/3R4eKN8";
+const String titleDos = "Tu página web sin costo";
+const String linkDos = "https://bit.ly/3uF5vcr";
 
-const String titleTres = "Únete a mi comunidad de Azure";
-const String linkTres = "https://bit.ly/3NFFOPU";
+const String titleTres = "GitHub Student Developer Pack";
+const String linkTres = "https://bit.ly/3z3uGZ7";
 
 const String titleCuatro = "Oracle Next Education";
 const String linkCuatro = "https://bit.ly/3nB05vm";
 
-const String titleCinco = "Feria de cursos gratis";
-const String linkCinco = "https://bit.ly/3OE6Vfy";
+const String titleCinco = "Solicita una cotización tech";
+const String linkCinco = "https://bit.ly/2DjutqF";
 
-const String titleSeis = "Beca Talent Land";
-const String linkSeis = "https://bit.ly/3abC6zC";
+const String titleSeis = "Únete a mi comunidad de Azure";
+const String linkSeis = "https://bit.ly/3NFFOPU";
 
 const String titleSiete = "Colabora con beaclon";
 const String linkSiete = "https://bit.ly/3Andj6k";

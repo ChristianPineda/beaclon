@@ -31843,24 +31843,24 @@ A.pW.prototype={
 aD(){return new A.DV(B.o)}}
 A.DV.prototype={
 L(a,b){var s=null,r=A.eE(s,s,s,B.t0,s,s,s,s),q=t.E
-return new A.rH(A.Ba(A.Bu(B.cg,A.a([r,A.Qz(s,A.a4b(A.a([A.JM(A.eE(s,new A.pJ(B.xa,B.jW,s),s,s,s,s,B.wR,s),s,s),B.u2,B.ay,B.u0,B.u3,B.u1,B.ay,A.a5I(B.z7,B.B7,B.ef),B.DO,new A.fy("Aprende Linux con Microsoft Azure",new A.Xa(),s),B.ay,new A.fy("Data Analyst con LinkedIn y Microsoft",new A.Xb(),s),B.ay,new A.fy("\xdanete a mi comunidad de Azure",new A.Xc(),s),B.ay,new A.fy("Oracle Next Education",new A.Xd(),s),B.ay,new A.fy("Feria de cursos gratis",new A.Xe(),s),B.ay,new A.fy("Beca Talent Land",new A.Xf(),s),B.ay,new A.fy("Colabora con beaclon",new A.Xg(),s)],q),B.ee),s,s,s,s,s,s)],q),B.d6),s,s),s)}}
+return new A.rH(A.Ba(A.Bu(B.cg,A.a([r,A.Qz(s,A.a4b(A.a([A.JM(A.eE(s,new A.pJ(B.xa,B.jW,s),s,s,s,s,B.wR,s),s,s),B.u2,B.ay,B.u0,B.u3,B.u1,B.ay,A.a5I(B.z7,B.B7,B.ef),B.DO,new A.fy("Operaci\xf3n Aleph",new A.Xa(),s),B.ay,new A.fy("Tu p\xe1gina web sin costo",new A.Xb(),s),B.ay,new A.fy("GitHub Student Developer Pack",new A.Xc(),s),B.ay,new A.fy("Oracle Next Education",new A.Xd(),s),B.ay,new A.fy("Solicita una cotizaci\xf3n tech",new A.Xe(),s),B.ay,new A.fy("\xdanete a mi comunidad de Azure",new A.Xf(),s),B.ay,new A.fy("Colabora con beaclon",new A.Xg(),s)],q),B.ee),s,s,s,s,s,s)],q),B.d6),s,s),s)}}
 A.Xa.prototype={
-$0(){return A.dg("https://bit.ly/3ODFO4j")},
+$0(){return A.dg("https://bit.ly/3bYelLY")},
 $S:15}
 A.Xb.prototype={
-$0(){return A.dg("https://bit.ly/3R4eKN8")},
+$0(){return A.dg("https://bit.ly/3uF5vcr")},
 $S:15}
 A.Xc.prototype={
-$0(){return A.dg("https://bit.ly/3NFFOPU")},
+$0(){return A.dg("https://bit.ly/3z3uGZ7")},
 $S:15}
 A.Xd.prototype={
 $0(){return A.dg("https://bit.ly/3nB05vm")},
 $S:15}
 A.Xe.prototype={
-$0(){return A.dg("https://bit.ly/3OE6Vfy")},
+$0(){return A.dg("https://bit.ly/2DjutqF")},
 $S:15}
 A.Xf.prototype={
-$0(){return A.dg("https://bit.ly/3abC6zC")},
+$0(){return A.dg("https://bit.ly/3NFFOPU")},
 $S:15}
 A.Xg.prototype={
 $0(){return A.dg("https://bit.ly/3Andj6k")},
