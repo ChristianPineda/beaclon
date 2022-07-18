@@ -21,8 +21,8 @@ const String linkDos = "https://bit.ly/3uF5vcr";
 const String titleTres = "GitHub Student Developer Pack";
 const String linkTres = "https://bit.ly/3z3uGZ7";
 
-const String titleCuatro = "Oracle Next Education";
-const String linkCuatro = "https://bit.ly/3nB05vm";
+const String titleCuatro = "DataCamp Free Week";
+const String linkCuatro = "https://bit.ly/3zh9LBC";
 
 const String titleCinco = "Solicita una cotización tech";
 const String linkCinco = "https://bit.ly/2DjutqF";

@@ -1,4 +1,4 @@
-#Fri Jul 01 22:19:49 CDT 2022
+#Mon Jul 18 18:10:01 CDT 2022
 base.0=C\:\\Users\\robot\\source\\repos\\OsloMxCC\\pinwndev\\beaclon\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
