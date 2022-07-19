@@ -161,6 +161,13 @@ class _HomePageState extends State<HomePage> {
                     text: titleSiete,
                     onPressed: () => launchUrlString(linkSiete),
                   ),
+                  const SizedBox(
+                    height: 10,
+                  ),
+                  CustomButton(
+                    text: titleOcho,
+                    onPressed: () => launchUrlString(linkOcho),
+                  ),
                 ],
               ),
             ),

@@ -32,3 +32,6 @@ const String linkSeis = "https://bit.ly/3NFFOPU";
 
 const String titleSiete = "Colabora con beaclon";
 const String linkSiete = "https://bit.ly/3Andj6k";
+
+const String titleOcho = "Beca Talent World";
+const String linkOcho = "https://bit.ly/3ohldqU";
