@@ -12,16 +12,16 @@ const String profession = "Cloud Native Developer";
 const String job = "Consultant at bSide";
 const String startup = "OSLOMXCC Founder";
 
-const String titleUno = "Free Code Camp por 1 USD";
+const String titleUno = "DataCamp 1 mes 1 USD";
 const String linkUno = "https://bit.ly/3fSIHkU";
 
 const String titleDos = "Tu página web sin costo";
 const String linkDos = "https://bit.ly/3uF5vcr";
 
-const String titleTres = "GitHub Student Developer Pack";
+const String titleTres = "GH Student Developer Pack";
 const String linkTres = "https://bit.ly/3z3uGZ7";
 
-const String titleCuatro = "A Cloud Gurú gratis en Octubre";
+const String titleCuatro = "ACG cursos gratis Octubre";
 const String linkCuatro = "https://bit.ly/3CCoFnM";
 
 const String titleCinco = "Solicita una cotización tech";
@@ -33,5 +33,5 @@ const String linkSeis = "https://bit.ly/3NFFOPU";
 const String titleSiete = "Colabora con beaclon";
 const String linkSiete = "https://bit.ly/3Andj6k";
 
-const String titleOcho = "Beca Inglés Pro/Business/STEM";
+const String titleOcho = "Beca Santander Inglés";
 const String linkOcho = "https://bit.ly/3T7KC3L";
