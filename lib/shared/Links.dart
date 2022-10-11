@@ -12,8 +12,8 @@ const String profession = "Cloud Native Developer";
 const String job = "Consultant at bSide";
 const String startup = "OSLOMXCC Founder";
 
-const String titleUno = "DataCamp 1 mes 1 USD";
-const String linkUno = "https://bit.ly/3fSIHkU";
+const String titleUno = "Ciencia de Datos Free";
+const String linkUno = "https://bit.ly/3ClWF6M";
 
 const String titleDos = "Tu página web sin costo";
 const String linkDos = "https://bit.ly/3uF5vcr";
