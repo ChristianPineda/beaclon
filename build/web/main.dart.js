@@ -31844,9 +31844,9 @@ A.pW.prototype={
 aD(){return new A.DV(B.o)}}
 A.DV.prototype={
 L(a,b){var s=null,r=A.eE(s,s,s,B.t0,s,s,s,s),q=t.E
-return new A.rH(A.Ba(A.Bu(B.cg,A.a([r,A.Qz(s,A.a4c(A.a([A.JM(A.eE(s,new A.pJ(B.xa,B.jW,s),s,s,s,s,B.wR,s),s,s),B.u2,B.aq,B.u0,B.u3,B.u1,B.aq,A.a5J(B.z7,B.B7,B.ef),B.DO,new A.eI("DataCamp 1 mes 1 USD",new A.Xa(),s),B.aq,new A.eI("Tu p\xe1gina web sin costo",new A.Xb(),s),B.aq,new A.eI("GH Student Developer Pack",new A.Xc(),s),B.aq,new A.eI("ACG cursos gratis Octubre",new A.Xd(),s),B.aq,new A.eI("Solicita una cotizaci\xf3n tech",new A.Xe(),s),B.aq,new A.eI("\xdanete a mi comunidad de Azure",new A.Xf(),s),B.aq,new A.eI("Colabora con beaclon",new A.Xg(),s),B.aq,new A.eI("Beca Santander Ingl\xe9s",new A.Xh(),s)],q),B.ee),s,s,s,s,s,s)],q),B.d6),s,s),s)}}
+return new A.rH(A.Ba(A.Bu(B.cg,A.a([r,A.Qz(s,A.a4c(A.a([A.JM(A.eE(s,new A.pJ(B.xa,B.jW,s),s,s,s,s,B.wR,s),s,s),B.u2,B.aq,B.u0,B.u3,B.u1,B.aq,A.a5J(B.z7,B.B7,B.ef),B.DO,new A.eI("Ciencia de Datos Free",new A.Xa(),s),B.aq,new A.eI("Tu p\xe1gina web sin costo",new A.Xb(),s),B.aq,new A.eI("GH Student Developer Pack",new A.Xc(),s),B.aq,new A.eI("ACG cursos gratis Octubre",new A.Xd(),s),B.aq,new A.eI("Solicita una cotizaci\xf3n tech",new A.Xe(),s),B.aq,new A.eI("\xdanete a mi comunidad de Azure",new A.Xf(),s),B.aq,new A.eI("Colabora con beaclon",new A.Xg(),s),B.aq,new A.eI("Beca Santander Ingl\xe9s",new A.Xh(),s)],q),B.ee),s,s,s,s,s,s)],q),B.d6),s,s),s)}}
 A.Xa.prototype={
-$0(){return A.cZ("https://bit.ly/3fSIHkU")},
+$0(){return A.cZ("https://bit.ly/3ClWF6M")},
 $S:11}
 A.Xb.prototype={
 $0(){return A.cZ("https://bit.ly/3uF5vcr")},
